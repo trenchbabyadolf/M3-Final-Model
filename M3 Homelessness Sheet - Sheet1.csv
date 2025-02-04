@@ -1,0 +1,5 @@
+Years,Initial homeless population in Seattle,Annual growth/decline rate for Seattle,Predicted homeless population in Seattle,Initial homeless population in Albuquerque,Annual growth/decline rate for Albuquerque,Predicted homeless population in Albuquerque
+0,"16,000",3.50%,16000,2740,83%,2740
+10,16000,3.50%,22569.58017,2740,5%,4463.171277
+20,22570,3.50%,44909.53465,4463,5%,11841.66766
+50,44910,3.50%,250819.0651,11850,5%,135888.6875

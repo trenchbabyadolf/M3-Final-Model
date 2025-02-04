@@ -1,0 +1,5 @@
+Year,Seatle Inital Supply (H),Seatle Growth Rate,Seatle Housing Supply,Alburquerque Initial Supply,Albuquerque Growth Rate,Alburqueque Housing Supply
+0,"330,000",1.50%,330000,"312,000",1.00%,312000
+10,"333,000",1.50%,386460.0947,"312,000",1.00%,344642.1031
+20,386460,1.50%,520505.5858,"344,642",1%,420528.7357
+50,520505,1.50%,1095789.206,420529,1.00%,691615.3754
